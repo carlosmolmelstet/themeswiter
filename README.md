@@ -6,8 +6,10 @@
  Apos clonar o repositorio você deve rodar o comando
  
  npm install
- ##ou
+ #ou
  yarn install
+ 
+ 
  
  
 
