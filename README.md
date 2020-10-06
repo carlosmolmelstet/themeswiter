@@ -23,8 +23,6 @@ npm start
 yarn start
 ```
 
-```bash
-yarn create react-app [nome do projeto] --template typescript
-```
+
 Agora basta acessar o  [http://localhost:3000](http://localhost:3000) no navegador.
 
